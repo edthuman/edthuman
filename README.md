@@ -1,1 +1,1 @@
-Hi there, I'm fairly new to coding. I will soon be starting a bootcamp using JavaScript, and hence here I am! :)
+Hi there, I'm fairly new to coding, though I will be starting a Bootcamp soon, and hence here I am! :)
