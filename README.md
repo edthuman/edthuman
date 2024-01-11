@@ -1,1 +1,1 @@
-Hi there, I'm fairly new to coding, though I will be starting a Bootcamp soon, and hence here I am! :)
+Hi there, I'm still fairly new to coding, currently working my way through the Northcoders developer bootcamp :)
